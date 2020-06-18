@@ -11,7 +11,7 @@ function App() {
           Hello World! I am REACTing to you... 
         </p>
         <p>
-          See, you just made a LIVE change. 
+           I was grown in England on an Elastic Beanstalk. 
         </p>
         <a
           className="App-link"
